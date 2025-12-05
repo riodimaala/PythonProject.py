@@ -1,0 +1,199 @@
+{
+    "weekly": {
+        "Monday": {
+            "sleep": 7,
+            "exercise": 30,
+            "note": "Pending"
+        },
+        "Tuesday": {
+            "sleep": 6,
+            "exercise": 25,
+            "note": "Pending"
+        },
+        "Wednesday": {
+            "sleep": 8,
+            "exercise": 20,
+            "note": "Pending"
+        },
+        "Thursday": {
+            "sleep": 7,
+            "exercise": 35,
+            "note": "Pending"
+        },
+        "Friday": {
+            "sleep": 6,
+            "exercise": 30,
+            "note": "Pending"
+        },
+        "Saturday": {
+            "sleep": 8,
+            "exercise": 15,
+            "note": "Pending"
+        },
+        "Sunday": {
+            "sleep": 7,
+            "exercise": 20,
+            "note": "Pending"
+        }
+    },
+    "monthly": {
+        "Day 1": {
+            "sleep": 9,
+            "exercise": 15,
+            "note": "DONE"
+        },
+        "Day 2": {
+            "sleep": 9,
+            "exercise": 15,
+            "note": "Pending"
+        },
+        "Day 3": {
+            "sleep": 9,
+            "exercise": 30,
+            "note": "Pending"
+        },
+        "Day 4": {
+            "sleep": 9,
+            "exercise": 25,
+            "note": "Pending"
+        },
+        "Day 5": {
+            "sleep": 9,
+            "exercise": 40,
+            "note": "Pending"
+        },
+        "Day 6": {
+            "sleep": 8,
+            "exercise": 40,
+            "note": "Pending"
+        },
+        "Day 7": {
+            "sleep": 6,
+            "exercise": 25,
+            "note": "Pending"
+        },
+        "Day 8": {
+            "sleep": 9,
+            "exercise": 30,
+            "note": "Pending"
+        },
+        "Day 9": {
+            "sleep": 8,
+            "exercise": 30,
+            "note": "Pending"
+        },
+        "Day 10": {
+            "sleep": 6,
+            "exercise": 15,
+            "note": "Pending"
+        },
+        "Day 11": {
+            "sleep": 9,
+            "exercise": 40,
+            "note": "Pending"
+        },
+        "Day 12": {
+            "sleep": 6,
+            "exercise": 15,
+            "note": "Pending"
+        },
+        "Day 13": {
+            "sleep": 6,
+            "exercise": 15,
+            "note": "Pending"
+        },
+        "Day 14": {
+            "sleep": 9,
+            "exercise": 40,
+            "note": "Pending"
+        },
+        "Day 15": {
+            "sleep": 7,
+            "exercise": 30,
+            "note": "Pending"
+        },
+        "Day 16": {
+            "sleep": 6,
+            "exercise": 15,
+            "note": "Pending"
+        },
+        "Day 17": {
+            "sleep": 9,
+            "exercise": 35,
+            "note": "Pending"
+        },
+        "Day 18": {
+            "sleep": 6,
+            "exercise": 15,
+            "note": "Pending"
+        },
+        "Day 19": {
+            "sleep": 7,
+            "exercise": 40,
+            "note": "Pending"
+        },
+        "Day 20": {
+            "sleep": 9,
+            "exercise": 25,
+            "note": "Pending"
+        },
+        "Day 21": {
+            "sleep": 9,
+            "exercise": 40,
+            "note": "Pending"
+        },
+        "Day 22": {
+            "sleep": 6,
+            "exercise": 15,
+            "note": "Pending"
+        },
+        "Day 23": {
+            "sleep": 7,
+            "exercise": 35,
+            "note": "Pending"
+        },
+        "Day 24": {
+            "sleep": 7,
+            "exercise": 30,
+            "note": "Pending"
+        },
+        "Day 25": {
+            "sleep": 8,
+            "exercise": 35,
+            "note": "Pending"
+        },
+        "Day 26": {
+            "sleep": 8,
+            "exercise": 25,
+            "note": "Pending"
+        },
+        "Day 27": {
+            "sleep": 6,
+            "exercise": 15,
+            "note": "Pending"
+        },
+        "Day 28": {
+            "sleep": 9,
+            "exercise": 40,
+            "note": "Pending"
+        },
+        "Day 29": {
+            "sleep": 6,
+            "exercise": 25,
+            "note": "Pending"
+        },
+        "Day 30": {
+            "sleep": 9,
+            "exercise": 25,
+            "note": "Pending"
+        }
+    },
+    "profile": {
+        "name": "",
+        "age": "",
+        "gender": "",
+        "height": "",
+        "weight": "",
+        "bmi": ""
+    }
+}
